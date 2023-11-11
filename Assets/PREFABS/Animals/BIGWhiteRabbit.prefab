@@ -172,6 +172,7 @@ GameObject:
   - component: {fileID: 6198921423005301938}
   - component: {fileID: 8688082603693757373}
   - component: {fileID: 6736344350174922191}
+  - component: {fileID: 4573774076608594429}
   m_Layer: 0
   m_Name: BIGWhiteRabbit
   m_TagString: Untagged
@@ -282,6 +283,19 @@ MonoBehaviour:
   walkCounter: 0
   waitCounter: 0
   isWalking: 0
+--- !u!114 &4573774076608594429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995964027285725939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64c4d87d8ddc16e46bdbb573b86f889f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ItemName: Rabbit
 --- !u!1 &2227810594799777114
 GameObject:
   m_ObjectHideFlags: 0
